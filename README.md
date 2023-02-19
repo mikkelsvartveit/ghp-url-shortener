@@ -4,7 +4,7 @@ A simple service for hosting a URL shortener on a custom domain through GitHub P
 
 ## How does it work?
 
-The file `404.html` catches all routes and loads a small script from `src/redirect.js`. The script checks the URL against the routes defined in `entries.js` and performs a client-side redirect as specified.
+The file `404.html` catches all routes and loads a small script from `src/redirect.js`. The script checks the URL against the routes defined in `entries.js` and performs a client-side redirect if the route was found.
 
 ## How to use
 

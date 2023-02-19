@@ -6,5 +6,5 @@ const path = window.location.pathname.replace(/^\/+|\/+$/g, "");
 if (path in entries) {
   window.location.replace(entries[path]);
 } else {
-  window.location.replace("not-found.html");
+  document.getElementById("not-found").style.display = "block";
 }
