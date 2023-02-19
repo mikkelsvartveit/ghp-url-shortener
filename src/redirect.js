@@ -1,4 +1,4 @@
-import entries from "./entries.js";
+import entries from "../entries.js";
 
 // Get path after domain.com, trim '/'
 const path = window.location.pathname.replace(/^\/+|\/+$/g, "");
