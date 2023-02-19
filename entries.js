@@ -8,4 +8,5 @@ export default {
   gh: "https://github.com/mikkelsvartveit",
   yt: "https://www.youtube.com/channel/UCiJ7FdLKJSpGs1pqjqd7VnA",
   xcom: "https://calendar.google.com/calendar/hosted/xcomdata.no",
+  tp: "https://ntnu.1024.no/mikkesva",
 };
