@@ -1,6 +1,6 @@
 export default {
   // Define routes here:
-  "": "https://mikkelsvartveit.com",
+  "": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   bb: "https://ntnu.blackboard.com/ultra/course",
   dns: "https://domene.shop/admin?id=1887412&edit=dns&advanced=1",
   wca: "https://www.worldcubeassociation.org/persons/2014SVAR02",
