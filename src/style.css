@@ -3,8 +3,16 @@ body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, sans-serif;
   color: #333;
+  margin: 0;
   padding: 15px 5px;
   text-align: center;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: #fafafa;
+  }
 }
 
 h1 {
