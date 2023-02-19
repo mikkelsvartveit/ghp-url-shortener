@@ -5,4 +5,6 @@ export default {
   dns: "https://domene.shop/admin?id=1887412&edit=dns&advanced=1",
   wca: "https://www.worldcubeassociation.org/persons/2014SVAR02",
   f1: "https://live1.formula1stream.cc",
+  gh: "https://github.com/mikkelsvartveit",
+  yt: "https://www.youtube.com/channel/UCiJ7FdLKJSpGs1pqjqd7VnA",
 };
