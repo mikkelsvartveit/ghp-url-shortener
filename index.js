@@ -1,6 +1,7 @@
-import entries from "./entries.json" assert { type: "json" };
+import entries from "./entries.js";
 
-const path = window.location.pathname;
+// Get path after domain.com, trim '/'
+const path = window.location.pathname.replace(/^\/+|\/+$/g, "");
 
 if (path in entries) {
   window.location.replace(entries[path]);
