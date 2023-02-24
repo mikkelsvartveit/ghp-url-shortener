@@ -1,6 +1,7 @@
 export default {
   // Define routes here:
   "": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  add: "https://github.com/mikkelsvartveit/ghp-url-shortener/edit/master/entries.js",
   bb: "https://ntnu.blackboard.com/ultra/course",
   dns: "https://domene.shop/admin?id=1887412&edit=dns&advanced=1",
   wca: "https://www.worldcubeassociation.org/persons/2014SVAR02",
