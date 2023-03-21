@@ -14,4 +14,5 @@ export default {
   dotfiles: "https://github.com/mikkelsvartveit/dotfiles",
   vim: "https://github.com/mikkelsvartveit/dotfiles/blob/main/vim/.vimrc",
   neovim: "https://github.com/mikkelsvartveit/dotfiles/tree/main/nvim",
+  rpifish: "https://gist.github.com/Brandonshire/73098f982d00d13ddf93a8d484160da2?permalink_comment_id=4470567#gistcomment-4470567",
 };
