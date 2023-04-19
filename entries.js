@@ -3,7 +3,7 @@ export default {
   "": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   add: "https://github.com/mikkelsvartveit/ghp-url-shortener/edit/master/entries.js",
   bb: "https://ntnu.blackboard.com/ultra/course",
-  dns: "https://domene.shop/admin?id=1887412&edit=dns&advanced=1",
+  dns: "https://dash.cloudflare.com/0356594c55b7033aa58b3e893df1e9bb/misva.no/dns/records",
   wca: "https://www.worldcubeassociation.org/persons/2014SVAR02",
   f1: "https://www.latifistreams.com/motorsport",
   gh: "https://github.com/mikkelsvartveit",
