@@ -16,4 +16,5 @@ export default {
   neovim: "https://github.com/mikkelsvartveit/dotfiles/tree/main/nvim",
   rpifish: "https://gist.github.com/Brandonshire/73098f982d00d13ddf93a8d484160da2?permalink_comment_id=4470567#gistcomment-4470567",
   lens: "https://camerasize.com/compact/#703.408,703.596,703,ha,t",
+  vimrc: "https://raw.githubusercontent.com/mikkelsvartveit/dotfiles/main/vim/.vimrc",
 };
